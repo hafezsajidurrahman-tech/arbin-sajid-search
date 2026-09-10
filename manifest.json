@@ -1,0 +1,11 @@
+{
+  "name": "ARBIN SAJID",
+  "short_name": "ARBIN SAJID",
+  "description": "ARBIN SAJID Search",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#020817",
+  "theme_color": "#020817"
+}
